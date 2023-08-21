@@ -1,4 +1,4 @@
-# Chat Application 
+# Chat App
 ![image](https://github.com/vinodkhichar/chat-app/assets/95199749/f0e12d85-5641-45c8-ac86-3ec7c4d70dcf)
 ![image](https://github.com/vinodkhichar/chat-app/assets/95199749/c74cd29b-a789-4a49-97e1-8e2145c3123d)
 
